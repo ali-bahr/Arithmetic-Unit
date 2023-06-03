@@ -1,4 +1,4 @@
-# Arithmetic-Unit
+# Arithmetic Unit
 
 ##  Table of contents
 - [About](#about)
